@@ -1,6 +1,8 @@
 blueprint-compression
 ===============================
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/onehilltech/blueprint-compression.svg)](https://greenkeeper.io/)
+
 Blueprint module that adds compression support to Blueprint application
 
 ## Features
